@@ -1,1 +1,1 @@
-# -Generating-High-Fidelity-Brain-Tumor-Images-with-Deep-Convolutional-GANs-
+# Generating-High-Fidelity-Brain-Tumor-Images-with-Deep-Convolutional-GANs-
