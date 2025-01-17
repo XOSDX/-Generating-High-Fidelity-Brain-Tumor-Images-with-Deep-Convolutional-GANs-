@@ -57,7 +57,7 @@ Install the following Python libraries:
 ## Installation
 
 1. Clone this repository:
-   git clone https://github.com/your-repo-url.git
+   git clone [(https://github.com/XOSDX/-Generating-High-Fidelity-Brain-Tumor-Images-with-Deep-Convolutional-GANs-/tree/main)]
 
 2. Navigate to project directory:
    cd your-project-directory
